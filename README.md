@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ragarasagna
+- 👋 Hi, I’m Raga
 - 👀 I’m interested in Web Development and driving Data through Analytics
-- 🌱 I’m currently learning BI tools like Tableau and PowerBI
+- 🌱 I’m currently working towards multiple Analytics courses and certifications
 - 💞️ I’m looking to collaborate on projects relevant to my interests
 - 📫 Reach me @rrasagna13@gmail.com
