@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Raga
 - 👀 I’m interested in Web Development and driving Data through Analytics
-- 🌱 I’m currently working towards multiple Analytics courses and certifications
+- 🌱 I’m currently working towards multiple Analytics Courses and Certifications
 - 💞️ I’m looking to collaborate on projects relevant to my interests
+- 🔵Tableau Profile - https://public.tableau.com/app/profile/raga.rasagna.p
 - 📫 Reach me @rrasagna13@gmail.com
