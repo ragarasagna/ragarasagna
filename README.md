@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on projects relevant to my interests
 - 🔵Tableau Profile - https://public.tableau.com/app/profile/raga.rasagna.p
 - 📫 Reach me @rrasagna13@gmail.com
+- 💼 Im looking for Data Analyst/Business Intelligence internships/co-ops
