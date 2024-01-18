@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Raga
-- 👀 I’m interested in Data Analytics and Web Development
-- 🌱 I’m currently working towards multiple Analytics Courses and Certifications
+- 💻 Data Engineer
+- ☁  Experience in Finance, Retail, Healthcare and Transportation domains
+- 🌱 Proficient in the end-to-end data science process, adept at acquiring, cleaning, processing, modeling data, conducting thorough validation, and creating insightful visualizations to deliver comprehensive solutions that draw business-relevant conclusions. Specialized in developing client relationships, defined business analysis requirements to assist business to successful product launches and increased revenues.
 - 💞️ I’m looking to collaborate on projects relevant to my interests
-- 🔵Tableau Profile - https://public.tableau.com/app/profile/ragap
+- 🔵 Tableau Profile - https://public.tableau.com/app/profile/ragap
